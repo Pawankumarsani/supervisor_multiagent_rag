@@ -1948,6 +1948,7 @@ dependencies = [
     { name = "langchain-tavily" },
     { name = "langgraph" },
     { name = "langgraph-supervisor" },
+    { name = "python-dotenv" },
     { name = "sentence-transformers" },
 ]
 
@@ -1962,6 +1963,7 @@ requires-dist = [
     { name = "langchain-tavily", specifier = ">=0.2.18" },
     { name = "langgraph", specifier = ">=1.2.19" },
     { name = "langgraph-supervisor", specifier = ">=0.0.31" },
+    { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "sentence-transformers", specifier = ">=6.2.0" },
 ]
 

@@ -14,5 +14,6 @@ dependencies = [
     "langchain-tavily>=0.2.18",
     "langgraph>=1.2.19",
     "langgraph-supervisor>=0.0.31",
+    "python-dotenv>=1.2.4",
     "sentence-transformers>=6.2.0",
 ]
